@@ -38,7 +38,7 @@ Comment on the pinned issue, or open an issue with what you know. If you join as
 
 ## Projects
 
-Projects come out of the research. Each one is a branch of this repo, named `C04-FrontDoor-ProjectName`, with no hyphens inside a name. `main` holds the research.
+Projects come out of the research. Each one is a branch of this repo, named after this repo plus the project, `washington-c04-frontdoor-projectname`, with no hyphens inside the project name (for example, `washington-c04-frontdoor-findit`). `main` holds the research.
 
 ## Maintainers
 
