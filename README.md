@@ -2,11 +2,11 @@
 
 **What does each of The Labs' stakeholders need OLOS to be, and how does one shared home stay reachable from many places?**
 
-A Research Pod of The Upskilling Labs of Greater Washington, formed at sensemaking day, Oct 24, 2026. We work through frame innovation (Kees Dorst): we find out why the problem is hard before we build anything.
+A Research Pod of The Upskilling Labs of Greater Washington, formed at sensemaking day, Oct 24, 2026. We work through frame creation, Kees Dorst's method (*Frame Innovation*, 2015): we find out why the problem is hard before we build anything.
 
 ## Where we started
 
-Sensemaking day was the intuition pass. We went looking for the paradox and came away with hunches. Here's how the pod first put it:
+On sensemaking day we worked from intuition. We went looking for the paradox and came away with hunches. Here's how the pod first put it:
 
 As the pod first wrote it: **the speed AI is evolving, vs. the speed we can train people, vs. the speed we can move as an organization.**
 
@@ -28,7 +28,7 @@ The Upskilling Labs of Greater Washington is building OLOS, the Labs' open-sourc
 | 4. Field | Who else, anywhere, faces something like this? What do they do? | Now to Nov 28 |
 | 5. Themes | What shows up across all of them? | Nov 7 |
 | 6. Frames | A new way of seeing the problem that makes the paradox easier to move | Nov 8 to 14 |
-| 7. Futures | Show the frame to real players. Do they lean in? | Nov 14 |
+| 7. Futures | What does the frame make possible for each player? Show them. Do they want it? | Nov 14 |
 | 8. Transformation | Change how The Labs works, built on OLOS, released weekly to real people | Nov 15 to Dec 5 |
 | 9. Integration | The change becomes part of how the region runs, someone keeps it, and it goes upstream | Dec 8 |
 
